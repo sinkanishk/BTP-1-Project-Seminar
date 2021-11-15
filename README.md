@@ -5,7 +5,7 @@ Binary Hate Speech Detection using Recurrent Neural Networks (RNN-GRU) and Googl
 * Clone the repository
 
 ```bash
-git clone https://github.com/ONFIRE7777/BTP
+git clone https://github.com/sinkanishk/BTP-1-Project-Seminar
 ```
 
 * Open the folder
